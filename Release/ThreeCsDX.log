@@ -1,0 +1,164 @@
+﻿  astar.cpp
+  audio.cpp
+  boss.cpp
+c:\users\eezhe\downloads\gpp\practical\assignment\gpp\gpp\bullet.h(73): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\eezhe\downloads\gpp\practical\assignment\gpp\gpp\bullet.h(74): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\eezhe\downloads\gpp\practical\assignment\gpp\gpp\bullet.h(75): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\eezhe\downloads\gpp\practical\assignment\gpp\gpp\bullet.h(76): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  bossCannon.cpp
+  bossShield.cpp
+bossShield.cpp(10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+bossShield.cpp(11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+bossShield.cpp(38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+bossShield.cpp(39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+bossShield.cpp(40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  entity.cpp
+  game.cpp
+  graphics.cpp
+  image.cpp
+  input.cpp
+  bullet.cpp
+c:\users\eezhe\downloads\gpp\practical\assignment\gpp\gpp\bullet.h(73): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\eezhe\downloads\gpp\practical\assignment\gpp\gpp\bullet.h(74): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\eezhe\downloads\gpp\practical\assignment\gpp\gpp\bullet.h(75): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\eezhe\downloads\gpp\practical\assignment\gpp\gpp\bullet.h(76): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  instruction.cpp
+  lose.cpp
+  playerHealth.cpp
+c:\users\eezhe\downloads\gpp\practical\assignment\gpp\gpp\bullet.h(73): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\eezhe\downloads\gpp\practical\assignment\gpp\gpp\bullet.h(74): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\eezhe\downloads\gpp\practical\assignment\gpp\gpp\bullet.h(75): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\eezhe\downloads\gpp\practical\assignment\gpp\gpp\bullet.h(76): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  player.cpp
+c:\users\eezhe\downloads\gpp\practical\assignment\gpp\gpp\bullet.h(73): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\eezhe\downloads\gpp\practical\assignment\gpp\gpp\bullet.h(74): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\eezhe\downloads\gpp\practical\assignment\gpp\gpp\bullet.h(75): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\eezhe\downloads\gpp\practical\assignment\gpp\gpp\bullet.h(76): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  spitter.cpp
+spitter.cpp(117): warning C4244: 'return': conversion from 'FLOAT' to 'int', possible loss of data
+spitter.cpp(121): warning C4244: 'return': conversion from 'FLOAT' to 'int', possible loss of data
+  spitterbullet.cpp
+spitterbullet.cpp(61): warning C4244: 'return': conversion from 'FLOAT' to 'int', possible loss of data
+spitterbullet.cpp(65): warning C4244: 'return': conversion from 'FLOAT' to 'int', possible loss of data
+  start.cpp
+  tank.cpp
+tank.cpp(125): warning C4244: 'return': conversion from 'FLOAT' to 'int', possible loss of data
+tank.cpp(129): warning C4244: 'return': conversion from 'FLOAT' to 'int', possible loss of data
+  textDX.cpp
+  Compiling...
+  dontdie.cpp
+c:\users\eezhe\downloads\gpp\practical\assignment\gpp\gpp\bullet.h(73): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\eezhe\downloads\gpp\practical\assignment\gpp\gpp\bullet.h(74): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\eezhe\downloads\gpp\practical\assignment\gpp\gpp\bullet.h(75): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\eezhe\downloads\gpp\practical\assignment\gpp\gpp\bullet.h(76): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+dontdie.cpp(300): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+dontdie.cpp(301): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+dontdie.cpp(311): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(312): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(398): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+dontdie.cpp(439): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(440): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(543): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+dontdie.cpp(544): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+dontdie.cpp(545): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+dontdie.cpp(551): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+dontdie.cpp(552): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+dontdie.cpp(575): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(576): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(581): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(582): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(587): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(588): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(593): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(594): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(623): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(624): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(629): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(630): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(635): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(636): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(641): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(642): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(658): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(659): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(664): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(665): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(670): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(671): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(676): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(677): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(708): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(709): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(714): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(715): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(720): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(721): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(726): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(727): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(741): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(742): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(747): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(748): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(753): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(754): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(759): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(760): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(773): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(774): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(779): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(780): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(785): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(786): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(791): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(792): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(829): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(830): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(835): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(836): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(841): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(842): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(847): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(848): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(862): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(863): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(868): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(869): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(874): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(875): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(880): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(881): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(894): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(895): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(900): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(901): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(906): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(907): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(912): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
+dontdie.cpp(913): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(977): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+dontdie.cpp(978): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+dontdie.cpp(1115): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+dontdie.cpp(1134): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(1135): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+dontdie.cpp(1240): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+dontdie.cpp(1651): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+dontdie.cpp(1965): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+dontdie.cpp(2291): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+dontdie.cpp(2581): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+dontdie.cpp(1637): warning C4101: 'voronoi': unreferenced local variable
+  textureManager.cpp
+  wall.cpp
+  win.cpp
+  winmain.cpp
+c:\users\eezhe\downloads\gpp\practical\assignment\gpp\gpp\bullet.h(73): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\eezhe\downloads\gpp\practical\assignment\gpp\gpp\bullet.h(74): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\eezhe\downloads\gpp\practical\assignment\gpp\gpp\bullet.h(75): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\eezhe\downloads\gpp\practical\assignment\gpp\gpp\bullet.h(76): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  zombie.cpp
+zombie.cpp(97): warning C4244: 'return': conversion from 'FLOAT' to 'int', possible loss of data
+zombie.cpp(101): warning C4244: 'return': conversion from 'FLOAT' to 'int', possible loss of data
+  Generating code
+c:\users\eezhe\downloads\gpp\practical\assignment\gpp\gpp\wall.cpp(57): warning C4715: 'Wall::checkVoronoiRegion': not all control paths return a value
+  All 466 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ThreeCsDX.vcxproj -> C:\Users\EeZhe\Downloads\GPP\Practical\Assignment\GPP\GPP\Release\ThreeCsDX.exe
